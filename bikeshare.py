@@ -20,7 +20,7 @@ def get_filters():
   
     print('\nHello! Let\'s explore some US bikeshare data!')
 
-    # input for city - chicago, new york city, washington
+    # input for city - chicago, new york city and washington
 
 
     while True:
